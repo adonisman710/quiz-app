@@ -64,7 +64,7 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Safdar Jamal](https://https://quiz-app-yjye.vercel.app/).
+QuizApp is built and maintained by [Kevin Scott](https://https://quiz-app-yjye.vercel.app/).
 
 ## License
 
