@@ -1,18 +1,18 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
+  <a href="https://quiz-app-yjye.vercel.app/">
     QuizApp
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/SafdarJamal/quiz-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
+  <a href="https://github.com/adonisman710/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
+    <img src="https://github.com/adonisman710/quiz-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/quiz-app" alt="GitHub Release (latest by date)" />
+  <a href="https://github.com/adonisman710/quiz-app/releases">
+    <img src="https://img.shields.io/github/v/release/adonisman710/quiz-app" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/quiz-app" alt="License" />
+  <a href="https://github.com/adonisman710/quiz-app/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/adonisman710/quiz-app" alt="License" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
   QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
 </p>
 
-![QuizApp](https://github.com/SafdarJamal/quiz-app/assets/48409548/22e9696d-bab4-4aa5-a028-4a4f9ce71777)
+![QuizApp](https://github.com/adonisman710/quiz-app/assets/48409548/22e9696d-bab4-4aa5-a028-4a4f9ce71777)
 
 ## Built with
 
@@ -33,7 +33,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/quiz-app.git
+git clone https://github.com/adonisman710/quiz-app.git
 cd quiz-app
 ```
 
@@ -64,8 +64,8 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+QuizApp is built and maintained by [Safdar Jamal](https://https://quiz-app-yjye.vercel.app/).
 
 ## License
 
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+Code released under the [MIT license](https://github.com/adonisman710/quiz-app/blob/master/LICENSE).
